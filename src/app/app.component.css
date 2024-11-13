@@ -1,7 +1,0 @@
-:root{
-    --primary: black
-}
-
-p{
-    color: var(--primary);
-}
