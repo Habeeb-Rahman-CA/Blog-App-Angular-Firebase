@@ -2,6 +2,7 @@
     background-color: var(--secondary-color);
     border: none;
     color: var(--body-text-color);
+    width: 1200px;
 }
 
 input[type = text], input[type = email]{
