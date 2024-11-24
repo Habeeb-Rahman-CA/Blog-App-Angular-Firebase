@@ -1,0 +1,8 @@
+.btn-bth{
+    height: 38px;
+    width: 30%;
+    border: none;
+    color: white;
+    font-size: 13px;
+    background-color: var(--primary-color);
+}
